@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.d1{
+    background-color: blue;
+    height:600px;
+    width:100%;
+    clip-path: polygon(25% 0%, 100% 0%, 100% 38%, 23% 70%);
+
+}
